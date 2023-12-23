@@ -5,6 +5,8 @@ Removing Image Artifacts From Scratched Lens Protectors, ISCAS 2023
 
 **The first real-captured paired dataset for scratched lens protectors**
 
+Both **daytime** and **nighttime** data are included in the datasets.
+
 ## News
 [07/07/2023] The dataset is released!
 
@@ -28,3 +30,4 @@ If you find our work useful for your research, please cite our paper
 ![](1.jpg)
 ![](2.jpg)
 ![](3.jpg)
+
