@@ -3,9 +3,9 @@ Removing Image Artifacts From Scratched Lens Protectors, ISCAS 2023
 
 *Yufei Wang, Renjie Wan, Wenhan Yang, Bihan Wen, Lap-pui Chau, Alex C Kot*
 
-**The first real-captured paired dataset for scratched lens protectors**
-
-Both **daytime** and **nighttime** data are included in the datasets.
+⭐⭐ **The first real-captured paired dataset for scratched lens protectors**
+ 
+⭐⭐ Both **daytime** and **nighttime** data are included in the datasets.
 
 ## News
 [23/12/2023] The corrected dataset is uploaded to [Google Drive](https://drive.google.com/file/d/1fA9mlExcgiNxUD_kpvycVMN6s8p5FEmW/view?usp=sharing), which includes 281 pairs for test and 970 pairs for training.
