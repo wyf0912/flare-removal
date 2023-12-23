@@ -8,6 +8,7 @@ Removing Image Artifacts From Scratched Lens Protectors, ISCAS 2023
 Both **daytime** and **nighttime** data are included in the datasets.
 
 ## News
+[23/12/2023] The corrected dataset is uploaded to [Google Drive](https://drive.google.com/file/d/1fA9mlExcgiNxUD_kpvycVMN6s8p5FEmW/view?usp=sharing), which includes 281 pairs for test and 970 pairs for training.
 [07/07/2023] The dataset is released!
 
 ## Downloading the dataset
